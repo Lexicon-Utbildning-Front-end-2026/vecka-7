@@ -31,11 +31,6 @@
 * [MDN - Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [MDN - Array.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
-### 🛠️ Övningar
-* [Objekt - Måndag](https://github.com/linuszocom/TypeScript-Objekt-JSON)
-* [Funktioner - Tisdag](https://github.com/linuszocom/TypeScript-Functions)
-* [Mini-projekt](https://github.com/linuszocom/TypeScript-Mini-Projekt)
-* [Mini-Projekt Fortsättning](https://github.com/linuszocom/TypeScript-Mini-Projekt-Fortsattning/tree/main)
 
 ## 📅 Måndag: Objekt
 
