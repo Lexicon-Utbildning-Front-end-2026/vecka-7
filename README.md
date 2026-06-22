@@ -45,11 +45,20 @@ Object, egenskaper, objekt i arrayer.
 
 ## 📅 Tisdag: TypeScript Typer
 
-type, interface, union types.
+Vi kommer gå lite mer på djupet för att förstå Typescript's olika Typer, som:
+
+- type
+- union types
+- litaral types
+- interfaces
+
+Vi kommer även kort påminna oss om optional properties, och hur vi använder typer på funktioner.
+
+Till sist går vi även igenom hur vi jobbar med metoder i våra objekt.
 
 ### 🎯 Mål för dagen
 
-* Kunna typsäkra funktionerna.
+* Kunna typsäkra vår kod.
 
 ### 💻 E-Learning
 
