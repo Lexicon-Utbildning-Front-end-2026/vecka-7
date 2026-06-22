@@ -66,6 +66,7 @@ Till sist går vi även igenom hur vi jobbar med metoder i våra objekt.
 * [TypeScript Crash Course #9 - Interfaces - Net Ninja](https://www.youtube.com/watch?v=BysWJvdPVJc)
 * [TypeScript Crash Course #10 - Type Aliases - Net Ninja](https://www.youtube.com/watch?v=5GeqhEDAxrg)
 * [TypeScript Crash Course #11 - Union Types - Net Ninja](https://www.youtube.com/watch?v=sgEKZzTCkiY)
+* [TypeScript Crash Course #12 - Type Guards - Net Ninja](https://www.youtube.com/watch?v=_u23NOHC6WU)
 
 ---
 
