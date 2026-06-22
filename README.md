@@ -63,6 +63,8 @@ Till sist går vi även igenom hur vi jobbar med metoder i våra objekt.
 ### 💻 E-Learning
 
 * [Interfaces vs Types in TypeScript - onjsdev(  *(Mycket relevant för denna vecka!)*](https://www.youtube.com/watch?v=BTBftM7D9v8)
+* [TypeScript Crash Course #9 - Interfaces - Net Ninja](https://www.youtube.com/watch?v=BysWJvdPVJc)
+* [TypeScript Crash Course #10 - Type Aliases - Net Ninja](https://www.youtube.com/watch?v=5GeqhEDAxrg)
 
 ---
 
