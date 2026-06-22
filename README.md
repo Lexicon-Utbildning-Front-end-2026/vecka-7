@@ -12,13 +12,12 @@
 ## 📚 Material
 
 ### 💻 E-Learning
-* [[Hela - [TypeScript: Big Picture (Pluralsight)](](](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)
-* [[Extra för de som vill - [TypeScript Best Practices (Pluralsight)](](](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents)
+* [Hela - [TypeScript: Big Picture (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)
+* Extra för de som vill - [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents)
 * [TypeScript Course for Beginners - Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 * [TypeScript in 100 Seconds - Fireship](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
-* [TS: Intro and setup - Net Ninja](https://www.youtube.com/watch?v=2pZmKW9-I_k)
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
-* [Interfaces vs Types in TypeScript - onjsdev](  *(Mycket relevant för denna vecka!)*](https://www.youtube.com/watch?v=BTBftM7D9v8)
+* [Interfaces vs Types in TypeScript - onjsdev(  *(Mycket relevant för denna vecka!)*](https://www.youtube.com/watch?v=BTBftM7D9v8)
 
 ### 📃 Läsning
 * [TypeScript Handbook - Intro](https://www.typescriptlang.org/docs/handbook/intro.html)
