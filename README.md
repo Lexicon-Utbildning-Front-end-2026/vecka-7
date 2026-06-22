@@ -17,14 +17,14 @@
 * [TypeScript Course for Beginners - Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 * [TypeScript in 100 Seconds - Fireship](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
-* [Interfaces vs Types in TypeScript - onjsdev(  *(Mycket relevant för denna vecka!)*](https://www.youtube.com/watch?v=BTBftM7D9v8)
+
 
 ### 📃 Läsning
 * [TypeScript Handbook - Intro](https://www.typescriptlang.org/docs/handbook/intro.html)
 * [TypeScript in 5 Minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 * [Everyday Types - Handbook](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 * [MDN - JavaScript Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-* [MDN - Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 * [MDN - Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [MDN - Array.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
@@ -56,6 +56,10 @@ type, interface, union types.
 
 * Kunna typsäkra funktionerna.
 
+### 💻 E-Learning
+
+* [Interfaces vs Types in TypeScript - onjsdev(  *(Mycket relevant för denna vecka!)*](https://www.youtube.com/watch?v=BTBftM7D9v8)
+
 ---
 
 ## 📅 Onsdag: DOM grunder
@@ -66,6 +70,10 @@ querySelector, createElement, append, textContent.
 
 * Visa uppgifterna på webbsidan istället för i konsolen.
 * Rendera listor i DOM.
+
+### 📃 Läsning
+
+* [MDN - Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 ---
 
