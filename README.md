@@ -37,6 +37,11 @@ Object, egenskaper, objekt i arrayer.
 
 * Skapa listor av objekt.
 
+### 📃 Läsning
+
+* [W3 Schools - JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
+* [W3 Schools - TypeScript Object Types](https://www.w3schools.com/typescript/typescript_object_types.php)
+
 ### 💻 Exercise
 
 * [W3 Schools - Exercise: TypeScript Object Types](https://www.w3schools.com/typescript/exercise.php?x=xrcise_object_types1)
