@@ -12,16 +12,11 @@
 ## 📚 Material
 
 ### 💻 E-Learning
-* [Hela - [TypeScript: Foundation: The Big Picture (Pluralsight)](https://app.pluralsight.com/ilx/video-courses/94bd947c-faab-4a6e-8139-8ee3dc70d9c1/course-overview)
-* Extra för de som vill - [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents)
 * [TypeScript Course for Beginners - Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
-* [TypeScript in 100 Seconds - Fireship](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 
 
 ### 📃 Läsning
-* [TypeScript Handbook - Intro](https://www.typescriptlang.org/docs/handbook/intro.html)
-* [TypeScript in 5 Minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 * [Everyday Types - Handbook](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 * [MDN - JavaScript Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
