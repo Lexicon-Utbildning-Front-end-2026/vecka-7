@@ -79,6 +79,9 @@ querySelector, createElement, append, textContent.
 * Visa uppgifterna på webbsidan istället för i konsolen.
 * Rendera listor i DOM.
 
+### 💻 E-Learning
+* [(Pluralsight) - TypeScript in Practice: DOM Manipulation](https://app.pluralsight.com/ilx/video-courses/typescript-dom-manipulation/course-overview)
+
 ### 📃 Läsning
 
 * [MDN - Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
