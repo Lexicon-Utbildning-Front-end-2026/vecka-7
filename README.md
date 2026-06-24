@@ -88,13 +88,17 @@ querySelector, createElement, append, textContent.
 
 ---
 
-## 📅 Torsdag: DOM fortsättning
+## 📅 Torsdag: DOM, Events & Interaktion
 
-render-funktioner, uppdatera DOM, återanvändbara funktioner.
+addEventListener, click, input.value, skapa tasks, rendera om.
+
+Vi ska bygga funktionalitet i vår app.
 
 ### 🎯 Mål för dagen
 
-* Rendera hela task-listan
+* Lägga till nya tasks
+* Klar-markera tasks
+* Radera tasks
 
 ### 💻 E-Learning
 
@@ -105,6 +109,33 @@ render-funktioner, uppdatera DOM, återanvändbara funktioner.
 ## 📅 Fredag: Code Review
 
 ### 🎯 Mål för dagen
+
+Fördjupa förståelsen för DOM-manipulation – alltså hur vi använder TypeScript för att styra vad som syns på skärmen.
+
+Frågor för Code Review:
+
+**I grupp:**
+
+1. Visa ett ställe i din kod där du använder en metod för att manipulera sidan.
+    * Exempel: Skapa nya element (createElement), ändra text (textContent), byta klasser (classList) eller ta bort något.
+
+2. Förklara med egna ord vad som händer på just den raden eller i det blocket.
+    * Varför valde du att lösa det på just det sättet?
+   
+3. Diskutera om det fanns flera olika sätt att lösa samma problem på.
+    * Kunde man gjort på något annat sätt? Vad är för- och nackdelarna med din valda metod?
+      
+**Gemensamt:**
+
+Berätta kort hur det gick i gruppen, vad gick bra och vad var svårare när ni pratade om koden.
+
+### Övningar
+
+Efter er Code Review fortsätter ni med det egna projektet:
+
+* Reflektera: Fixa till din kod utifrån den feedback och inspiration du fick från dina gruppmedlemmar.
+* Bygg vidare: Fortsätt implementera funktionalitet i ditt projekt.
+* Snygga till: Se över dina variabelnamn och din struktur så att koden är lättläst.
 
 
 
